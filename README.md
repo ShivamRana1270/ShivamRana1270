@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am a motivated MERN Stack Developer with 6 months of professional training from Excellence Technology. During this training, I gained hands-on experience in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I developed a strong understanding of REST APIs, frontend development, and backend integration.<br><br>I am passionate about creating responsive and user-friendly web applications, and I continuously work on improving my coding skills and learning new technologies. I am eager to apply my knowledge in real-world projects and contribute effectively to a dynamic development team.
 
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivam_rana7578) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivam-rana-a4b63a3b8/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivam.rana2291@gmail.com) 
